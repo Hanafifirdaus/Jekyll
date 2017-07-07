@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "CSS"
+date:   2017-07-07 21:21:45 +0700
+categories: jekyll update
+---
+
+[![IMAGE ALT TEXT HERE](https://www.sololearn.com/Icons/Courses/1023.png)](https://youtu.be/rbTEOOucUOs?list=PLCZlgfAG0GXAvVZ1Wb1D7HVAPNJGk4f-G)
+
+Dalam bahasa bakunya, seperti di kutip dari wikipedia, CSS adalah “kumpulan kode yang digunakan untuk mendefenisikan desain dari bahasa markup” , dimana bahasa markup ini salah satunya adalah HTML.
+
+Untuk pengertian bebasnya, CSS adalah kumpulan kode program yang digunakan untuk mendesain atau mempercantik tampilan halaman HTML. Dengan CSS kita bisa mengubah desain dari text, warna, gambar dan latar belakang dari (hampir) semua kode tag HTML.
+
+CSS biasanya selalu dikaitkan dengan HTML, karena keduanya memang saling melengkapi. HTML ditujukan untuk membuat struktur, atau konten dari halaman web. Sedangkan CSS digunakan untuk tampilan dari halaman web tersebut. Istilahnya, “HTML for content, CSS for Presentation”.
+
+Awal mula diperlukannya CSS dikarenakan kebutuhan akan halaman web yang semakin kompleks. Pada awal kemunculan HTML, kita bisa membuat suatu paragraf bewarna merah dengan menulis langsung kode tersebut didalam tag HTML, atau membuat latar belakang sebuah halaman dengan warna biru. Contoh kode HTML untuk hal itu adalah sebagai berikut:
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Test Tag Font HTML</title>
+</head>
+ 
+<body>
+  <p>
+    CSS merupakan bahasanya <font color="red">desainer web</font>.
+    Namun sebenarnya, apa itu CSS?
+  <br />
+    <font color="red">CSS </font> adalah kumpulan kode yang digunakan
+    untuk mendefenisikan desain dari bahasa markup,
+    <font color="red">salah satunya adalah HTML</font>.
+  <br />
+    Dengan CSS kita bisa mengubah desain dari
+    <font color="red">text, warna, gambar dan latar belakang</font>
+    dari (hampir) semua kode tag HTML.
+  </p>
+</body>
+</html>
+```
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
