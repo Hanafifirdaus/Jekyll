@@ -15,7 +15,7 @@ layout: default
 
           <h4>{{ post.date | date: date_format }}</h4>
           <div class="thumbnail">
-            <a href="{{ post.url | relative_url }}" target="_blank">
+            <a href="{{ post.url | relative_url }}" target="_self">
               <img src="{{ post.gambar | escape }}" alt="Lights" style="width:100%">
               <div class="caption">
                 <p style="text-align: center;">{{ post.title | escape }}</p>
