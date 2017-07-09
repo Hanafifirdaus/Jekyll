@@ -4,10 +4,7 @@
 
 [Situs Web](https://hanafifirdaus.github.io)
 
-
-## Contents At-A-Glance
-
-Web ini berisi artikel cara membuat website
+##Web ini berisi artikel cara membuat website
 
 ### CSS
 
