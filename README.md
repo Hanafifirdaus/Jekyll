@@ -19,3 +19,10 @@
   - HTML Elements
   - HTML Styles
   - HTML CSS
+
+### Javascript
+
+  - Javascript Variabel
+  - Javascript Operator
+  - Javascript Data Type
+  - Javascript Object
